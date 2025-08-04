@@ -20,6 +20,9 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "node ./test.js"
+    "test": "node ./test"
+  },
+  "devDependencies": {
+    "version-next": "^1.0.2"
   }
 }

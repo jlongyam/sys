@@ -1,0 +1,25 @@
+{
+  "name": "@jlongyam/sys",
+  "version": "0.1.0",
+  "description": "system configuration",
+  "keywords": [
+    "system",
+    "os",
+    "config"
+  ],
+  "homepage": "https://github.com/jlongyam/sys#readme",
+  "bugs": {
+    "url": "https://github.com/jlongyam/sys/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlongyam/sys.git"
+  },
+  "license": "MIT",
+  "author": "jlongyam",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  }
+}

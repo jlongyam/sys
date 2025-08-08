@@ -1,7 +1,5 @@
 # Sys
 
-[@jlongyam/sys](https://www.npmjs.com/package/@jlongyam/sys)
-
 Contents:
 
 - `Executor`

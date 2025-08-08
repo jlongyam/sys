@@ -1,12 +1,16 @@
 # Sys
 
-Require 'Tester'
+- `Executor`
 
-See:
+## See also
 
+- `std-env`
 - `path-key`,
 - `env-paths`,
 - `node-sys`,
-- `npm-run-pat`,
+- `npm-run-path`,
 - `'bin-check`
-- https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/
+- `application-config`
+- `executive`
+- `ipc-event-emitter`
+- `listr2`

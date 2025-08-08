@@ -1,13 +1,12 @@
 {
   "name": "@jlongyam/sys",
   "version": "0.1.0",
-  "description": "system configuration",
+  "description": "system utility",
   "keywords": [
     "system",
-    "os",
-    "config"
+    "executor"
   ],
-  "homepage": "https://github.com/jlongyam/sys#readme",
+  "homepage": "https://github.com/jlongyam/sys",
   "bugs": {
     "url": "https://github.com/jlongyam/sys/issues"
   },
@@ -18,12 +17,11 @@
   "license": "MIT",
   "author": "jlongyam",
   "type": "module",
-  "main": "index.js",
+  "main": "./src/index.js",
   "scripts": {
-    "test": "node ./test"
+    "test": "node ./test/importer.js"
   },
-  "devDependencies": {
-    "execa": "^9.6.0",
-    "version-next": "^1.0.2"
+  "publishConfig": {
+    "access": "public"
   }
 }

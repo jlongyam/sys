@@ -14,6 +14,10 @@ Contents:
 - [application-config](https://github.com/LinusU/node-application-config)
 - [executive](https://github.com/zeekay/executive)
 - [ipc-event-emitter](https://github.com/chocolateboy/ipc-event-emitter)
-- [listr2](https://github.com/listr2/listr2)
 - [More](https://www.npmjs.com/search?q=keywords:cli)
+
+Awesome:
+
+- [listr2](https://github.com/listr2/listr2)
+- [makes](https://makes.js.org)
 
